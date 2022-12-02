@@ -1,14 +1,14 @@
 ![image](./assets/banner.png)
 
 
-# {PiezoMate} - MAGNATHON
+# PiezoMate - MAGNATHON
 Tell us about your project here
 
 ## Team Members
 [1.Inas Ibrahim](enter_github_profile_url)   
 [2.Niyma Siraj](enter_github_profile_url)   
 [3.Muhammed](enter_github_profile_url)   
-[4.Muhammed Fuwad](https://github.com/FuwadMuhammed))   
+[4.Muhammed Fuwad](https://github.com/FuwadMuhammed)
 
 ## Link to Project
 https://www.figma.com/proto/D9Fv1WF6QPuyXhrFcaiTZb/MetaQuad?node-id=7%3A584&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A2(live_link)
